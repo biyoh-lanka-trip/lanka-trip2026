@@ -1,0 +1,57 @@
+LP画像ファイル一覧
+==================
+
+すべて assets/images フォルダに保存されています。
+LP内の画像参照はローカルファイルへ変更済みです。
+
+01. sri-lanka-tour-map.png
+    用途：ツアー全体マップ
+    出所：ユーザー提供画像
+
+02. sigiriya-hero.jpg
+    用途：ファーストビュー、シーギリヤ紹介、OG画像、背景
+    撮影：Anil Reddy
+    出所：https://unsplash.com/photos/r-vUs1jhhLA
+
+03. retreat-yoga-cliff.jpg
+    用途：コンセプト、占星術、変化セクション背景
+    撮影：Gabor Kozmon
+    出所：https://unsplash.com/photos/okvD_2Z6AFw
+
+04. sri-lanka-spices.jpg
+    用途：スリランカ料理・スパイス紹介
+    撮影：Eranjan
+    出所：https://unsplash.com/photos/BoOEBDKJwlw
+
+05. ayurveda-massage.jpg
+    用途：アーユルヴェーダ体験紹介
+    撮影：Dinuka Lankaloka
+    出所：https://unsplash.com/photos/JGIfuL-nzCE
+
+06. dambulla-buddha.jpg
+    用途：仏教文化、ダンブッラ紹介
+    撮影：Anurag Rastogi
+    出所：https://unsplash.com/photos/fVN1dExAuG0
+
+07. sari-portrait.jpg
+    用途：サリー体験紹介
+    撮影：Vishnu Vasu
+    出所：https://unsplash.com/photos/2bVL8geilAc
+
+08. galle-fort.jpg
+    用途：ゴール紹介、クロージング背景
+    撮影：Zoshua Colah
+    出所：https://unsplash.com/photos/O0YmMPG56KI
+
+09. sri-lanka-hotel-lunch.jpg
+    用途：ジェフリー・バワ建築・ホテルランチ紹介
+    撮影：Zoshua Colah
+    出所：https://unsplash.com/photos/3gvwRZ_Omgw
+    備考：元の外部画像URLをローカル保存できなかったため、
+          LPの内容に合うスリランカ料理の写真へ差し替えています。
+
+注意
+----
+・画像はLP表示用に最大辺2,400pxを目安に最適化しています。
+・正式公開前に各写真の最新の利用条件をご確認ください。
+・別画像に差し替える場合は、同じファイル名で上書きするとHTML修正を減らせます。
